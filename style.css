@@ -1,0 +1,98 @@
+#T {
+    text-shadow: 2px 2px #000a09;
+    font-size: 60px;
+    font-family:'Pacifico',cursive;
+    color:aqua
+
+}
+.links:hover{
+    background-color:yellow;
+}
+
+body {
+    text-align: center;
+    background:linear-gradient(yellow 0%,orange 100%);
+}
+
+#ron {
+    width: 300px;
+    border-radius: 1234px;
+}
+
+#slugs {
+    height: 200px;
+}
+
+#welcome {
+    background: linear-gradient(#0f02c4 0%, #a10060 100%);
+    height: 100%;
+}
+
+#data {
+    background: linear-gradient(#05edf5 0%, #fbff00 100%);
+    height: 100%;
+}
+
+p {
+    font-size: 20px;
+    color: #7300ff;
+}
+
+.line {
+    height: 6px;
+    background-color: #7300ff;
+    width: 150px;
+    margin: 8px auto;
+}
+
+.links {
+    float: left;
+    color: #a200ff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 9px;
+    padding-left: 9px;
+    font-size: 20px;
+}
+}
+
+.links:hover {
+    background-color:cyan;
+}
+
+#head {
+    text-align: left;
+}
+
+.menu {
+    list-style: none;
+    font-family: fantasy;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;}
+#jkrowling{
+    width:500px;
+    height:250px;
+}
+#ronimgs{
+    width:250px;
+    height:500px;}
+body p{
+text-align:center;
+font-family:cursive;
+font-size:3px;
+color:blue;
+}
+#myWork{
+     text-align: center;
+}
+body p{
+text-align:center;
+font-family:cursive;
+font-size:20px;
+    color:blue;}
+html{
+    scroll-behavior:smooth;
+}
