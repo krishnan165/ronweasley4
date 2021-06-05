@@ -1,3 +1,4 @@
+
 #T {
     text-shadow: 2px 2px #000a09;
     font-size: 60px;
@@ -95,4 +96,7 @@ font-size:20px;
     color:blue;}
 html{
     scroll-behavior:smooth;
+}
+#imgage{
+    width:150px;
 }
